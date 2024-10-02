@@ -1,7 +1,8 @@
 # Hola 💬 
 ![Cylance](https://github.com/user-attachments/assets/649a203f-6ece-4778-a65a-42732f333e4c)
 
-Soy una ingeniera de software apasionada por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades. Encuéntrame en la web 🌎: - Aprender en público en Twitch or Antuane10 📹 ✍🏾 - Experimentando con las interacciones Codepen 🏓 - Compartir actualizaciones LinkedIn 💼 --- ⭐️ From [Anto](https://github.com/Dreyuix) --- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreyuix&show_icons=true&theme=transparent)
+Soy una ingeniera de software apasionada por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades. Encuéntrame en la web 🌎: - Aprender en público en Twitch or Antuane10 📹 ✍🏾 - Experimentando con las interacciones Codepen 🏓 - Compartir actualizaciones LinkedIn 💼 --- ⭐️ From [Anto](https://github.com/Dreyuix) --- ![Anurag's GitHub stats]
+
 ## Hi there 👋
 
 <!--
