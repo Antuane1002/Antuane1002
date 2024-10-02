@@ -1,9 +1,3 @@
-
-
-
-
-
-# Hola 💬 
 # Hola 💬 
 ![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b) 
 
