@@ -1,5 +1,5 @@
 # Hola 💬 
-![logo1](https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b) 
+![logo_tall_dance-2022](https://github.com/user-attachments/assets/d1019fac-a6d6-4d7e-81db-c3eed8955185)
 
 Soy una ingeniera de software apasionada por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades. Encuéntrame en la web 🌎: - Aprender en público en Twitch or Antuane10 📹 ✍🏾 - Experimentando con las interacciones Codepen 🏓 - Compartir actualizaciones LinkedIn 💼 --- ⭐️ From [Anto]
 
